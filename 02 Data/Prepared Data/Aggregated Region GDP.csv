@@ -1,0 +1,49 @@
+,Country Name,Country Code,2021
+1,Africa Eastern and Southern,AFE,1537.336021
+3,Africa Western and Central,AFW,1757.030626
+7,Arab World,ARB,6266.359916
+36,Central Europe and the Baltics,CEB,18751.02651
+49,Caribbean small states,CSS,10063.6913
+61,East Asia & Pacific (excluding high income),EAP,9771.648206
+62,Early-demographic dividend,EAR,3702.692786
+63,East Asia & Pacific,EAS,13041.78119
+64,Europe & Central Asia (excluding high income),ECA,8758.938553
+65,Europe & Central Asia,ECS,27152.47123
+68,Euro area,EMU,42450.15377
+73,European Union,EUU,38411.06278
+74,Fragile and conflict affected situations,FCS,1784.734325
+95,High income,HIC,48225.24121
+98,Heavily indebted poor countries (HIPC),HPC,1035.892553
+102,IBRD only,IBD,7221.406351
+103,IDA & IBRD total,IBT,5682.466677
+104,IDA total,IDA,1426.028713
+105,IDA blend,IDB,1842.771049
+107,IDA only,IDX,1216.372989
+128,Latin America & Caribbean (excluding high income),LAC,7728.033309
+134,Latin America & Caribbean,LCN,8327.60519
+135,Least developed countries: UN classification,LDC,1150.030148
+136,Low income,LIC,704.5087865
+139,Lower middle income,LMC,2572.705144
+140,Low & middle income,LMY,5491.92212
+142,Late-demographic dividend,LTE,11465.85777
+153,Middle East & North Africa,MEA,7562.825078
+156,Middle income,MIC,6074.084921
+161,Middle East & North Africa (excluding high income),MNA,3565.239343
+170,North America,NAC,68369.66279
+181,OECD members,OED,42446.85932
+183,Other small states,OSS,13878.81484
+191,Pre-demographic dividend,PRE,1411.45927
+197,Pacific island small states,PSS,3643.845437
+198,Post-demographic dividend,PST,49223.59503
+204,South Asia,SAS,2149.821595
+215,Sub-Saharan Africa (excluding high income),SSA,1625.183118
+217,Sub-Saharan Africa,SSF,1626.277926
+218,Small states,SST,12588.92779
+230,East Asia & Pacific (IDA & IBRD countries),TEA,9880.09607
+231,Europe & Central Asia (IDA & IBRD countries),TEC,9842.052265
+236,Latin America & the Caribbean (IDA & IBRD countries),TLA,8108.91587
+238,Middle East & North Africa (IDA & IBRD countries),TMN,3564.066025
+240,South Asia (IDA & IBRD),TSA,2149.821595
+241,Sub-Saharan Africa (IDA & IBRD countries),TSS,1626.277926
+249,Upper middle income,UMC,10828.05069
+259,World,WLD,12234.7968
