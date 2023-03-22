@@ -4,7 +4,7 @@
 The purpose of this case study is analyze the world’s state of children’s education using out of school and completion rate data. This analysis will provide insights into countries with significant education accessibility and gender gaps for further action.
 
 ## Dataset
-UNICEF’s State of the World’s Children 2021 on Education. Dataset can be downloaded from [Completion Rate](https:/data.unicef.org/resources/data_explorer/unicef_f/?ag=UNICEF&df=GLOBAL_DATAFLOW&ver=1.0&dq=.ED_CR_L1.&startPeriod=2012&endPeriod=2022), [Statistical tables](https://data.unicef.org/wp-content/uploads/2021/10/SOWC-Statistical-tables-ALL-2021-EN.xlsx), [Others](https://data.unicef.org/dv_index/).
+The main dataset is obtained from UNICEF’s State of the World’s Children 2021 on Education. Dataset can be downloaded from: [Completion Rate](https:/data.unicef.org/resources/data_explorer/unicef_f/?ag=UNICEF&df=GLOBAL_DATAFLOW&ver=1.0&dq=.ED_CR_L1.&startPeriod=2012&endPeriod=2022), [Statistical tables](https://data.unicef.org/wp-content/uploads/2021/10/SOWC-Statistical-tables-ALL-2021-EN.xlsx), [Others](https://data.unicef.org/dv_index/).
 GDP Per Capita data from World Bank. Dataset can be downloaded [here](https://api.worldbank.org/v2/en/indicator/NY.GDP.PCAP.CD?downloadformat=csv).
 2022 Global Happiness Rank by World Happiness Report. Dataset can be downloaded [here](https://worldhappiness.report/ed/2022/#appendices-and-data).
 Country geojson is obtained from https://datahub.io/core/geo-countries#resource-countries.
