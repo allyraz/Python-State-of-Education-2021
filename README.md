@@ -12,7 +12,7 @@ Country geojson is obtained from https://datahub.io/core/geo-countries#resource-
 ## Analysis
 Analysis has been conducted in Python using Jupyter notebooks and the following libraries have been utilised: pandas, NumPy, os, seaborn, and folium. The following has been performed in this analysis: Data Cleaning, Wrangling & Subsetting, Data Merging, Geographical Visualizations in Pythonusing folium, Supervised Machine Learning - Regression using scikit learn, Unsupervised Machine Learning - Clustering using scikit learn. Geographical visualization was conducted inPython using Folium, unfortunately the file is too big to be uploaded here. Contact me if you would like a copy.
 
-Some of the results have been visualized and reported in the [Tableau storyboard] (https://public.tableau.com/app/profile/ally.raz/viz/TheStateofChildrensEducation2021/StateofChildrensEducation2021).
+Some of the results have been visualized and reported in the [Tableau storyboard](https://public.tableau.com/app/profile/ally.raz/viz/TheStateofChildrensEducation2021/StateofChildrensEducation2021).
 
 
 ## Findings
