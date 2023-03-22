@@ -1,5 +1,4 @@
 # Python-State-of-Education-2021
-Analyze the world’s state of children’s education using out of school and completion rate data. This analysis will provide insights into countries with significant education accessibility and gender gaps for further action.
 
 ## Objective
 The purpose of this case study is analyze the world’s state of children’s education using out of school and completion rate data. This analysis will provide insights into countries with significant education accessibility and gender gaps for further action.
@@ -13,8 +12,8 @@ Country geojson is obtained from https://datahub.io/core/geo-countries#resource-
 ## Analysis
 Analysis has been conducted in Python using Jupyter notebooks and the following libraries have been utilised: pandas, NumPy, os, seaborn, and folium. The following has been performed in this analysis: Data Cleaning, Wrangling & Subsetting, Data Merging, Geographical Visualizations in Pythonusing folium, Supervised Machine Learning - Regression using scikit learn, Unsupervised Machine Learning - Clustering using scikit learn. Geographical visualization was conducted inPython using Folium, unfortunately the file is too big to be uploaded here. Contact me if you would like a copy.
 
-The results have been visualized and reported in Tableau at https://public.tableau.com/app/profile/ally.raz/viz/TheStateofChildrensEducation2021/StateofChildrensEducation2021
+Some of the results have been visualized and reported in the [Tableau storyboard] (https://public.tableau.com/app/profile/ally.raz/viz/TheStateofChildrensEducation2021/StateofChildrensEducation2021).
 
 
 ## Findings
-The analysis and findings, can be found in Tableau at https://public.tableau.com/app/profile/ally.raz/viz/TheStateofChildrensEducation2021/StateofChildrensEducation2021
+The analysis and findings, can be found in Tableau at https://public.tableau.com/app/profile/ally.raz/viz/TheStateofChildrensEducation2021/StateofChildrensEducation2021. This storyboard does not contain all the analysis conducted in Python, it only presents the main findings of the analysis.
